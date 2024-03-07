@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<?php wp_head(); ?>
+
+		<link rel="icon" type="image/png" href="<?php echo get_stylesheet_directory_uri(); ?>/images/favicon.png">
+
+</head>
+<body>
+
+	<div id="overlayLoading">
+		<div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+	</div>
+
+	<?php include "inc/menu.php"; ?>
+	
+
+	
+	
+
+
+	
+
+	
+
+
+	
+
+ 	
+
+
+
+
+
+	
+
+	
+
+
+	
+
+ 	
+
+
